@@ -90,9 +90,9 @@ High-performance REST API with advanced caching strategies.
 
 ## 📊 GitHub Stats
 
-![Abdelilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelilahraeesa&show_icons=true&theme=radical)
+![Abdelilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelilah-raees&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelliahraees&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelliah-raees&layout=compact&theme=radical)
 
 ---
 
