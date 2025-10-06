@@ -17,7 +17,6 @@ I'm a passionate full-stack developer specializing in building robust and scalab
 - 📱 Responsive and intuitive UI/UX
 
 ---
-
 ## 🛠️ Technical Stack
 
 ### **Backend Development**
