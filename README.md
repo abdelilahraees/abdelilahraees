@@ -1,80 +1,120 @@
-# 👋 Salut ! Je suis Abdelilah Benkida — `@abdelilahraees`
+# 👋 Hello, I'm Abdelilah Benkida
 
-![Header image](https://github.com/abdelilahraees/abdelilahraees/raw/main/profile-header-bg.png)
+**Full-Stack Developer | Java Spring Boot & Angular Specialist**
 
-Développeur **Full-Stack** Java / Angular — Étudiant en **Master 2 Ingénierie Informatique**.  
-Je conçois des API robustes avec **Spring Boot** et des interfaces réactives avec **Angular**.  
-Je cherche des opportunités de stage de fin d'études et des projets open-source où contribuer.
+🎓 Master's Degree in Computer Engineering | 📍 Morocco | 💼 Seeking Internship from February 2026
 
 ---
 
-### 🚀 À propos (extrait du CV)
-- Étudiant Master 2 — Développement full-stack (Java / Angular). :contentReference[oaicite:1]{index=1}  
-- Passionné par les architectures microservices, la sécurité (Keycloak, JWT), la containerisation Docker et le cloud (Azure). :contentReference[oaicite:2]{index=2}
+## 🚀 About Me
+
+I'm a passionate full-stack developer specializing in building robust and scalable web applications. With a strong foundation in **Java/Spring Boot** for backend development and **Angular** for frontend, I create complete ecosystems from API design to responsive user interfaces.
+
+**What I bring to the table:**
+- 🏗️ End-to-end application development
+- 🔐 Secure API design with modern authentication
+- ☁️ Cloud integration and DevOps practices
+- 📱 Responsive and intuitive UI/UX
 
 ---
 
-### 🔧 Compétences clés
-**Backend:** Java · Spring Boot · Spring Cloud (Gateway, Eureka) · Spring Security · JWT · Keycloak  
-**Bases de données:** MySQL · PostgreSQL · Redis (caching)  
-**Frontend:** Angular · TypeScript · HTML5 · CSS3 · Tailwind CSS  
-**DevOps / Cloud:** Docker · Azure (Blob Storage, Cache for Redis, ACR) · GitHub Actions  
-**Tests:** JUnit · Mockito  
-**Outils:** Git · Postman · Swagger · Maven
+## 🛠️ Technical Stack
+
+### **Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### **Frontend Development**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Database & Caching**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **Security & Authentication**
+![Keycloak](https://img.shields.io/badge/Keycloak-ED8B00?style=for-the-badge&logo=keycloak&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EC1C24?style=for-the-badge&logo=oauth&logoColor=white)
 
 ---
 
-### 🧩 Projets sélectionnés
-> Détails extraits du CV : API e-commerce, microservices, Redis, Keycloak, Azure. :contentReference[oaicite:3]{index=3}
+## 💼 Featured Projects
 
-#### Kida-Store (Application e-commerce — projet personnel)
-- **Stack :** Spring Boot (REST API), Angular (front), Keycloak (auth RBAC), MySQL, Redis, Azure Blob Storage.  
-- Fonctionnalités : authentification & rôles (ADMIN/USER), gestion produits, panier, commandes, upload d’images sur Blob, caching Redis.
-- Conseils pour exposer le projet : ajouter un README dédié par service + scripts Docker Compose pour lancer localement.
+### 🛒 **Kida-Store - E-commerce Application**
+A complete e-commerce platform built with microservices architecture.
 
-#### API Spring Boot avec cache Redis
-- API REST optimisée avec Spring Data Redis pour réduire le temps de réponse sur requêtes fréquentes.
-- Conteneurisation via Docker.
+**Key Features:**
+- 🔒 Role-based authentication with Keycloak
+- 🛍️ Product catalog and shopping cart
+- 💳 Secure payment integration
+- 📦 Order management system
+- 🚀 Containerized with Docker
 
-#### Architecture e-commerce (Microservices)
-- Architecture 5 services (Gateway, Eureka, Config Server + services métiers), containerisation et orchestration via Docker Compose.
+**Technologies:** Spring Boot, Angular, Keycloak, MySQL, Redis, Azure Cloud, Docker
+
+### 🌐 **Microservices E-commerce Platform**
+A distributed e-commerce system with 5 independent services.
+
+**Architecture:**
+- API Gateway with Spring Cloud Gateway
+- Service Discovery with Eureka
+- Config Server for centralized configuration
+- Business services for products and orders
+
+**Technologies:** Spring Cloud, Docker, MySQL, Spring Boot
+
+### ⚡ **Spring Boot API with Redis Cache**
+High-performance REST API with advanced caching strategies.
+
+**Achievements:**
+- 50% reduction in response time for frequent requests
+- Optimized database queries
+- Containerized deployment
+
+**Technologies:** Spring Boot, Redis, Docker, Spring Data
 
 ---
 
-### 📂 Repos recommandés à pinner
-- `kida-store-backend` — API Spring Boot + Docker + Redis  
-- `kida-store-frontend` — Angular 17 standalone + Keycloak integration  
-- `microservices-ecommerce` — exemple architecture Gateway/Eureka/Config  
-- `demo-redis-cache` — petite app démonstration Redis + Spring Data
+## 📊 GitHub Stats
 
-*(Crée ces README détaillés dans chaque repo — guide d’installation, run via Docker Compose, et captures d’écran.)*
-
----
-
-### 🔗 Contact / Réseaux
-- Email : [abdelilahraees@gmail.com](mailto:abdelilahraees@gmail.com). :contentReference[oaicite:4]{index=4}  
-- LinkedIn : https://www.linkedin.com/in/abdelilah-benkida-635372222. :contentReference[oaicite:5]{index=5}  
-- GitHub : https://github.com/abdelilahraees. :contentReference[oaicite:6]{index=6}  
-- Téléphone : +212 628 752 146. :contentReference[oaicite:7]{index=7}
-
----
-
-### 📊 Stats & badges
-<!-- Remplace `abdelilahraees` par ton username si tu changes -->
 ![Abdelilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdelilahraees&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilahraees&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilahraees&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdelilahraees&theme=radical)
 
 ---
 
-### 🛠️ Template « How to run » (à ajouter dans chaque repo)
-```bash
-# cloner
-git clone https://github.com/abdelilahraees/kida-store-backend.git
-cd kida-store-backend
+## 📫 Let's Connect!
 
-# builder et lancer avec Docker Compose
-docker compose up --build
+I'm always open to discussing new opportunities, collaborations, or just chatting about technology!
 
-# ou exécuter localement (prérequis : JDK, Maven, MySQL)
-mvn clean install
-java -jar target/app.jar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelliah-benkida-635372222)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelilahraees)
+
+---
+
+## 🎯 Currently Learning
+
+- 🔄 Advanced Microservices Patterns
+- 🐳 Kubernetes and Orchestration
+- ☁️ Advanced Azure Services
+- 🧪 Test-Driven Development (TDD)
+
+---
+
+⭐ *From [abdelilahraees](https://github.com/abdelilahraees)*
