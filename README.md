@@ -110,14 +110,11 @@ Production-grade architecture with centralized config and service discovery.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdelilahraees&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilahraees&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
 <img src="https://streak-stats.demolab.com/?user=abdelilahraees&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelilahraees&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20%E2%80%94%20Commits%20%26%20Activity" width="95%" />
+<img src="https://raw.githubusercontent.com/abdelilahraees/abdelilahraees/output/github-metrics.svg" alt="GitHub metrics — commits, PRs, languages" width="95%" />
 
 <br/><br/>
 
