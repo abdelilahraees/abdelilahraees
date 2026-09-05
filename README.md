@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1a1b27&height=200&section=header&text=Abdelilah%20Benkida&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20Spring%20Boot%20%26%20Angular&descAlignY=60&descSize=18" width="100%"/>
+# 👋 Hi, I'm Abdelilah Benkida
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+Backend+Developer;Angular+%2F+TypeScript+Frontend+Developer;Microservices+%26+Cloud+Enthusiast;Seeking+Internship+%E2%80%94+February+2026" alt="Typing SVG" />
 
@@ -136,6 +136,6 @@ Production-grade architecture with centralized config and service discovery.
 
 *Open to internships, collaborations, and tech conversations.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6DB33F&height=100&section=footer" width="100%"/>
+⭐ From [abdelilahraees](https://github.com/abdelilahraees)
 
 </div>
