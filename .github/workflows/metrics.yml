@@ -23,9 +23,11 @@ jobs:
           user: abdelilahraees
           filename: github-metrics.svg
           committer_branch: output
-          base: header, activity, community, repositories
           config_timezone: Africa/Casablanca
+
+          # Sections de base : uniquement l'en-tête + l'activité (commits, PRs, issues)
+          base: header, activity
+
+          # Calendrier de contributions sur 6 mois
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_limit: 6
