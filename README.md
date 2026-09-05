@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdelilah%20Benkida&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20Spring%20Boot%20%26%20Angular&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1a1b27&height=200&section=header&text=Abdelilah%20Benkida&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20Spring%20Boot%20%26%20Angular&descAlignY=60&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Boot+Backend+Developer;Angular+%2F+TypeScript+Frontend+Developer;Microservices+%26+Cloud+Enthusiast;Seeking+Internship+%E2%80%94+February+2026" alt="Typing SVG" />
 
@@ -110,10 +110,10 @@ Production-grade architecture with centralized config and service discovery.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdelilahraees&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilahraees&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdelilahraees&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilahraees&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelilahraees&theme=tokyonight&hide_border=true&background=00000000" />
+<img src="https://streak-stats.demolab.com/?user=abdelilahraees&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -136,6 +136,6 @@ Production-grade architecture with centralized config and service discovery.
 
 *Open to internships, collaborations, and tech conversations.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6DB33F&height=100&section=footer" width="100%"/>
 
 </div>
